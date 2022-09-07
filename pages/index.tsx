@@ -43,7 +43,7 @@ const Home: NextPage<IndexPageProps> = ({ initialCatImageUrl }) => {
       )}
 
       <button className={styles.btn} onClick={handleClick}>
-        今日の猫さん
+        次の猫さん
       </button>
     </div>
   );
